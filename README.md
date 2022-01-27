@@ -18,4 +18,4 @@ M-M Jumper Wires | 15 | YES*
 
 ---
 ## Schema
-[schema]: https://raw.githubusercontent.com/wdebsqi/arduino-gate-project/main/schema.jpg
+![schema](https://raw.githubusercontent.com/wdebsqi/arduino-gate-project/main/schema.jpg)
